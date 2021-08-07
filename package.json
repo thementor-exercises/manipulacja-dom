@@ -1,0 +1,22 @@
+{
+  "name": "manipulacja-dom",
+  "version": "1.0.0",
+  "description": "Manipulacja drzewem dokumentu za pomocą DOM",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thementor-exercises/manipulacja-dom.git"
+  },
+  "author": "Bartłomiej Górowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thementor-exercises/manipulacja-dom/issues"
+  },
+  "homepage": "https://github.com/thementor-exercises/manipulacja-dom#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
